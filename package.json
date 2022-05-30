@@ -29,5 +29,10 @@
                 "path": "./themes/Hyper Dracula-color-theme.json"
             }
         ]
+    },
+    "__metadata": {
+        "id": "hilalh.hyper-dracula-vscode-theme",
+        "publisherDisplayName": "Hilal Habashi",
+        "publisherId": null
     }
 }
